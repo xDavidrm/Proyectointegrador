@@ -1,0 +1,31 @@
+.searchbar{
+    background-color: rgb(99, 83, 89);
+    width: 400px;
+    border: none;
+    position: relative;
+    box-shadow: 1px 3px 6px rgb(0, 0, 0);
+    margin-left: 1480px;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    
+}
+
+.input{
+    border: none;
+    width: 80%;
+    border-radius: 30px;
+    
+    
+}
+
+
+.btn{
+    background: yellow;
+    border: none;
+    width: 20%;
+    color:black;
+    border-radius: 50px;
+    
+
+}

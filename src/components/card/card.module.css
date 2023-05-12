@@ -1,0 +1,40 @@
+.div{
+    background-color: chartreuse;
+    width: 300px;
+    height: auto;
+    box-shadow: 0px 1px 5px 3px rgb(0, 0, 0);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.btn{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 10px;
+    width: 25px;
+    height: 22px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.name{
+    position: absolute;
+    left: 1px;
+    background-color: red;
+    border-radius: 7px;
+    color: white;
+    padding-right: 30px;
+    margin-left: -1px;
+    padding-left: 30px;
+    /* padding-bottom: 2px; */
+    margin-top: 120px;
+    
+    
+    
+}
