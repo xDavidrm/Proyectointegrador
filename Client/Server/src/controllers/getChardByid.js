@@ -17,7 +17,7 @@ const getCharByid = (res, id) => {
          status: data.status
         }
        
-        console.log(character)
+      //   console.log(character)
         res.writeHead(200, {"Content-Type": "aplication/json"})
        return res.end(JSON.stringify(character))
    
